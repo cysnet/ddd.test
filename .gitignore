@@ -1,0 +1,10 @@
+ddd.domain/bin/
+ddd.domain/obj/
+ddd.infrastructure/obj/
+ddd.repository/bin/
+ddd.repository/obj/
+ddd.service/bin/
+ddd.service/obj/
+test.console/bin/
+test.console/obj/
+ddd.infrastructure/bin/
